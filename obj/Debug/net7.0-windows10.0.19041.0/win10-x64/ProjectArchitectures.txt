@@ -1,0 +1,1 @@
+C:\Users\MArcel\Desktop\CollectionManager\CollectionManager.csproj;x64
